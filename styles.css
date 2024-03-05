@@ -1,0 +1,14 @@
+/* Estilos para las evaluaciones */
+.evaluacion {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Estilos para el formulario */
+#formularioEvaluacion {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
